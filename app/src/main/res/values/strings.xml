@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApiIntegrationEx</string>
+    <string name="api_splash_text">API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="photos_data_button_text">Photos Data</string>
+    <string name="photos_api_button_text">Photos Api Data</string>
+</resources>
